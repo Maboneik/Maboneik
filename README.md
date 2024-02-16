@@ -1,8 +1,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWltcGpjbTI0czJ6Nm00ZGpoYjZjMTQxdmN5djRmdml2NTF5Y2FvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif" width="200" />
    <h1 align="center">Maboneik Niggzell Márquez</h1>
-    <h3 Que alguien sea mejor que tú en algo NO hace
-que se invaliden todas tus cosas buenas.</h3>
+    <h3> Que alguien sea mejor que tú en algo NO hace que se invaliden todas tus cosas buenas.</h3>
 </div>
 
 - 📞 Contactme en:  **[Instagram](https://www.instagram.com/meibomarquez/)**
