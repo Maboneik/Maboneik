@@ -20,6 +20,5 @@ que se invaliden todas tus cosas buenas.</h3>
         <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg#L1"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/unity/unity-original.svg#L1" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       </div>
 </div>
