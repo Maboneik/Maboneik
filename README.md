@@ -12,7 +12,6 @@
     <h3>Tools:</h3>
     <div align="center">
         <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg#L1" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/godot/godot-original.svg#L1" title="Godot" **alt="Godot" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg#L1" title="Python" alt="Python" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/flutter/flutter-original.svg#L1"  title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
