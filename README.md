@@ -19,3 +19,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
       </div>
 </div>
+<div>
+  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maboneik" alt="Maboneik jeje"/></p>
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=maboneik&show_icons=true&locale=en" alt="Maboneik" /></p>
+</div>
