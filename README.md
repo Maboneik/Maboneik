@@ -4,7 +4,7 @@
     <h3> Que alguien sea mejor que tú en algo NO hace que se invaliden todas tus cosas buenas.</h3>
 </div>
 
-- 📞 Contactme en:  **[Instagram](https://www.instagram.com/meibomarquez/)**
+- 📞 Contactme en:  **[linktr](https://linktr.ee/Maboneik)**
 
 - 💻 Estoy aprendiendo
 
@@ -22,6 +22,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" **alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" **alt="Javascript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" **alt="Typescript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
       </div>
 </div>
 
